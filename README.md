@@ -1,6 +1,3 @@
-# MN_Homeless_Children
-This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. The intended audience for social workers and/or social services. The dataset was curated for a class at the University of Washington in the winter of 2022. 
-
 # Readme
 This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. It is a study of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. The intended audience for social workers and/or social services. It is freely available to the public. 
 
@@ -71,12 +68,4 @@ These data are freely avaible to the public.
 
 # Contact
 Monica Wigdahl monicawigdahl@gmail.com
-
-# Files
-- [2020_HIC_MN-500-502-509_Extracted.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193717/2020_HIC_MN-500-502-509_Extracted.csv)
-- [2020_HIC_MN-500-502-509_Extracted.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193718/2020_HIC_MN-500-502-509_Extracted.xlsx)
-- [2020_HIC_Raw.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193719/2020_HIC_Raw.csv)
-- [2020_HIC_Raw.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193720/2020_HIC_Raw.xlsx)
-
-
 
