@@ -67,19 +67,16 @@ Schema Used: Project Open Data
 | Title |	MN Homeless Children |
 
 # Security 
-
 These data are freely avaible to the public. 
 
 # Contact
-
 Monica Wigdahl monicawigdahl@gmail.com
 
 # Files
-
-[2020_HIC_MN-500-502-509_Extracted.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193717/2020_HIC_MN-500-502-509_Extracted.csv)
-[2020_HIC_MN-500-502-509_Extracted.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193718/2020_HIC_MN-500-502-509_Extracted.xlsx)
-[2020_HIC_Raw.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193719/2020_HIC_Raw.csv)
-[2020_HIC_Raw.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193720/2020_HIC_Raw.xlsx)
+- [2020_HIC_MN-500-502-509_Extracted.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193717/2020_HIC_MN-500-502-509_Extracted.csv)
+- [2020_HIC_MN-500-502-509_Extracted.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193718/2020_HIC_MN-500-502-509_Extracted.xlsx)
+- [2020_HIC_Raw.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193719/2020_HIC_Raw.csv)
+- [2020_HIC_Raw.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193720/2020_HIC_Raw.xlsx)
 
 
 
