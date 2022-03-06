@@ -4,7 +4,8 @@ This dataset is a Housing Inventory Count (HIC) of children experiencing homeles
 # Readme
 This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. It is a study of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. The intended audience for social workers and/or social services. It is freely available to the public. 
 
-The dataset is available in both. xlxs and .csv format. There are three documents, the first is the raw data, the second is the filtered data pertaining to the specific locations and population and the third is the curated data. The curated data is the number of children experiencing homelessness in winter conditions in different communities, allowing comparison for improvement. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary.  
+The dataset is available in both. xlxs and .csv format. There are two documents, the first is the raw data, the second is the extracted data pertaining to the specific locations. The extracted data is the number of children experiencing homelessness in different communities, allowing comparison for improvement. There are no duplicate variables, and all fields have been filled; no cleaning should be necessary. 
+
 
 # Table of Contents
 - Naming
@@ -72,6 +73,13 @@ These data are freely avaible to the public.
 # Contact
 
 Monica Wigdahl monicawigdahl@gmail.com
+
+# Files
+
+[2020_HIC_MN-500-502-509_Extracted.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193717/2020_HIC_MN-500-502-509_Extracted.csv)
+[2020_HIC_MN-500-502-509_Extracted.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193718/2020_HIC_MN-500-502-509_Extracted.xlsx)
+[2020_HIC_Raw.csv](https://github.com/monica-wigdahl/mn_homelessness/files/8193719/2020_HIC_Raw.csv)
+[2020_HIC_Raw.xlsx](https://github.com/monica-wigdahl/mn_homelessness/files/8193720/2020_HIC_Raw.xlsx)
 
 
 
