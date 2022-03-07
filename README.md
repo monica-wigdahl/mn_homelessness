@@ -49,7 +49,7 @@ Schema Used: Project Open Data
 | hasEmail | monicawigdahl@gmail.com |
 | describedBy | https://github.com/monica-wigdahl/mn_homelessness |
 | description | This dataset is a Housing Inventory Count (HIC) of children experiencing homelessness present in Minnesota counties (Minneapolis/Hennepin, Duluth/St. Louis and Rochester/Southeast) 2020. This dataset was created for a course at the iSchool at the University of Washington in the winter of 2022. |
-| accessURL | Add raw file link |
+| accessURL | https://github.com/monica-wigdahl/mn_homelessness/blob/main/2020_HIC_Raw.csv |
 | format | CSV |
 | mediaType | CSV |
 | conformsTo | https://project-open-data.cio.gov/v1.1/schema |
