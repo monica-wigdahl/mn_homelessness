@@ -5,7 +5,7 @@ The dataset is available in both. xlxs and .csv format. There are two documents,
 
 
 # Table of Contents
-- Naming
+- Naming 
 - Data Dictionary
 - Metadata
 - Security
@@ -54,11 +54,11 @@ Schema Used: Project Open Data
 | mediaType | CSV |
 | conformsTo | https://project-open-data.cio.gov/v1.1/schema |
 | issued | 2022-03-07 |
-| keyword | Add keywords |
+| keyword | "homelessness", "children", "Minnesota", "Duluth", "Rochester", "Hennepin county", "St. Louis county", "Southeast county", "homeless" |
 | language | en-us |
 | modified | 2022-03-07 |
 | publisher | Monica Wigdahl |
-| references | HUD link |
+| references | https://www.hudexchange.info/resource/3031/pit-and-hic-data-since-2007/ |
 | rights | These data are freely available to all people, both in this repository and their respective government repositories |
 | theme | Homelessness, children |
 | Title |	MN Homeless Children |
