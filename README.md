@@ -56,7 +56,7 @@ Schema Used: Project Open Data
 | Title |	MN Homeless Children |
 
 # Security 
-These data are freely avaible to the public. 
+These data are freely available to the public. 
 
 # Contact
 Monica Wigdahl monicawigdahl@gmail.com
